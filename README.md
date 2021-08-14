@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naughtboy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Asp.Net
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me never You cannot contact me other than the database administrator
 
 <!---
